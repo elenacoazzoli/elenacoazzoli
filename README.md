@@ -5,8 +5,6 @@
 - 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
 - 🎨 Passionate about typography, calligraphy and graphic recording.
 
-<img alt="Cookie Monster" width="54px" src="https://media.giphy.com/media/3o6Zt4QBlckXiUIfO8/giphy.gif"/> I eat raw cookie dough (don't judge me, I know you do too!) 
-
 ### Languages and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
