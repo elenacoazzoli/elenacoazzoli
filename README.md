@@ -1,7 +1,7 @@
 ## Ciao 👋, I'm Elena!
 **Frontend developer** currently based in Vienna, Austria.
 
-- 👩🏻‍💻 I’m **currently working on** [Adogtion](https://github.com/elenacoazzoli/adogtion.git), a React and Next.js application for dog shelters and adopters.
+- 👩🏻‍💻 **My latest project** is [Adogtion](https://github.com/elenacoazzoli/adogtion.git), a React and Next.js application for dog shelters and adopters.
 - 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
 - 🎨 Passionate about typography, calligraphy and graphic recording.
 
