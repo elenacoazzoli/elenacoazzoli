@@ -1,9 +1,11 @@
 ## Ciao 👋, I'm Elena!
-**Frontend developer** currently based in Vienna, Austria.
+**Software engineer** based in Vienna, Austria. 
+Currently working @**Lingvano** with the goal of helping people to break down language barriers and learn sign languages 💪 
 
-- 👩🏻‍💻 **My latest project** is [Adogtion](https://github.com/elenacoazzoli/adogtion.git), a React and Next.js application for dog shelters and adopters.
-- 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
-- 🎨 Passionate about typography, calligraphy and graphic recording.
+- 🔧 I'm currently developing with **React Native, TypeScript, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
+- 👩🏻‍💻 Teaching CSS and Layouting **@Upleveled** 
+- 🎨 Passionate about accessibility, typography, graphic recording.
+- One of **my latest projects** is [Adogtion](https://github.com/elenacoazzoli/adogtion.git), a React and Next.js application for dog shelters and adopters.
 
 ### Languages and Tools:
 
